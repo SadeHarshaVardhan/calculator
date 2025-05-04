@@ -75,7 +75,7 @@ java ScientificCalculator
 - Ensure all required classes are in the same directory (unless you're using packages).
 - If you receive any compilation errors, check for typos or missing imports.
 
-## Outputs
+## Outputs Screenshots
 
 Basic Calculator
 
